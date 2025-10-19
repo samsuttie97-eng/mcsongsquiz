@@ -187,9 +187,10 @@ body {
     display: inline-block;
     margin: 20px 0;          /* space above and below */
     background: #00078a;     /* button background color */
-    color: #d2d4fa;          /* text color */
+    color: #ffedf2;  
+    font-family: Didot, serif;
     padding: 15px 30px;      /* button padding */
-    font-size: 16px;         /* text size */
+    font-size: 25px;         /* text size */
     font-weight: bold;
     text-decoration: none;   /* removes underline */
     border: 2px solid #fa7d1e; /* border */
