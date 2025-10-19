@@ -28,6 +28,8 @@ body {
 		border:5px solid #f1d4fe;
 		background-color:#ffedf2;
 		-moz-user-select:none;
+		margin: 0 auto;
+   		position: relative;
 	}
 	#dhtmlgoodies_dragDropContainer ul{	/* General rules for all <ul> */
 		margin-top:0px;
