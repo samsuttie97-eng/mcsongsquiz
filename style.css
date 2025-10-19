@@ -186,8 +186,8 @@ body {
 	.button {
     display: inline-block;
     margin: 20px 0;          /* space above and below */
-    background: #fc89ac;     /* button background color */
-    color: #c8bbfe;  
+    background: #c8bbfe;     /* button background color */
+    color: #fc89ac;  
     font-family: Didot, serif;
     padding: 15px 30px;      /* button padding */
     font-size: 25px;         /* text size */
