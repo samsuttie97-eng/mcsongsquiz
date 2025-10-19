@@ -180,6 +180,19 @@ body {
 		margin:0px;
 		padding:0px;
 	}
-	.style1 {color: #FF0000}
+	.style1 {color: #FF0000
+	}
 
-	
+	.button {
+    display: inline-block;
+    margin: 20px 0;          /* space above and below */
+    background: #00078a;     /* button background color */
+    color: #d2d4fa;          /* text color */
+    padding: 15px 30px;      /* button padding */
+    font-size: 16px;         /* text size */
+    font-weight: bold;
+    text-decoration: none;   /* removes underline */
+    border: 2px solid #fa7d1e; /* border */
+    border-radius: 8px;      /* rounded corners */
+    transition: 0.3s;      
+	}
