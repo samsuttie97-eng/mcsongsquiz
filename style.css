@@ -14,6 +14,13 @@ body {
     font-size: 45px;
     font-weight: bold;
 }
+.quiz-instructions {
+    text-align: center;
+    color: #f1d4fe;
+    font-size: 20px; 
+    font-family: "Open Sans", sans-serif;
+}
+
 
 	#footer{
 		height:30px;
@@ -32,7 +39,7 @@ body {
 	#dhtmlgoodies_dragDropContainer{	/* Main container for this script */
 		width:1000px;
 		height:400px;
-		border:10px dotted #f1d4fe;
+		outline:10px dotted #f1d4fe;
 		background-color:#ffedf2;
 		-moz-user-select:none;
 		margin: 0 auto;
