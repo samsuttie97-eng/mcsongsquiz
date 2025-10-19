@@ -33,7 +33,7 @@ body{
 	#dhtmlgoodies_dragDropContainer li,#dragContent li,li#indicateDestination{	/* Movable items, i.e. <LI> */
 		list-style-type:none;
 		height:15px;
-		background-color:#fb5789;
+		background-color:#edf2ff;
 		border:1px solid #000;
 		padding:2px;
 		margin-bottom:2px;
