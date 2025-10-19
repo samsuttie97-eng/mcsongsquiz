@@ -186,14 +186,14 @@ body {
 	.button {
     display: inline-block;
     margin: 20px 0;          /* space above and below */
-    background: #00078a;     /* button background color */
-    color: #ffedf2;  
+    background: #fc89ac;     /* button background color */
+    color: #c8bbfe;  
     font-family: Didot, serif;
     padding: 15px 30px;      /* button padding */
     font-size: 25px;         /* text size */
     font-weight: bold;
     text-decoration: none;   /* removes underline */
-    border: 2px solid #fa7d1e; /* border */
+    border: 2px solid #fc89ac /* border */
     border-radius: 8px;      /* rounded corners */
     transition: 0.3s;      
 	}
