@@ -1,8 +1,13 @@
-body{
-		font-family:Didot, serif;	/* Font to use */
-		background-color:#fc89ac;
-		background-image: url('https://images.pexels.com/photos/1587927/pexels-photo-1587927.jpeg'); 
-	}
+body {
+    font-family: Didot, serif;
+    background-color: #fc89ac;
+    background-image: url('https://images.pexels.com/photos/1587927/pexels-photo-1587927.jpeg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-attachment: fixed;
+}
+
 	#footer{
 		height:30px;
 		vertical-align:middle;
