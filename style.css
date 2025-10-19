@@ -7,11 +7,14 @@ body {
     background-position: center; 
     background-attachment: fixed;
 }
-#quizTitle {
-    color: #ffffff; /* base text color */
-    font-size: 48px;
-    text-align: center;
-    text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+.quizTitle {
+    text-align: center;   
+    color: #317082;  
+    font-family: Didot, serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+
 }
 
 	#footer{
