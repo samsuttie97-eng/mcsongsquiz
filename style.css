@@ -99,7 +99,7 @@ body{
 	/* Start main container CSS */
 	
 	div#dhtmlgoodies_mainContainer{	/* Right column DIV */
-		width:590px;
+		width:790px;
 		float:left;	
 	}
 	#dhtmlgoodies_mainContainer div{	/* Parent <div> of small boxes */
